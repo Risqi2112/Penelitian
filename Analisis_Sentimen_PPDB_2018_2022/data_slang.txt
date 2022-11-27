@@ -8,7 +8,9 @@ afdol:afdal
 afwan:maaf
 aing:saya
 aja:saja
+ajg:anjing
 ajib:asyik
+aaaabbhhjiiiinnggg:anjing
 ak:aku
 akikah:aku
 akn:akan
@@ -374,6 +376,7 @@ jinguk:keparat
 jkt:jakarta
 jkw:jokowi
 jln:jalan
+jl:jalan
 jngan:jangan
 julid:iri
 jutek:judes
@@ -2321,6 +2324,7 @@ klwrga : keluarga
 km : kamu
 kmaksiatan : kemaksiatan
 kmari : kemari
+kmarin : kemarin
 kmna : kemana
 kmps : kampus
 kmpus : kampus
@@ -2829,6 +2833,7 @@ pndukung : pendukung
 pnjilat : penjilat
 pns : pegawai negeri sipil
 pny : punya
+podb : ppdb
 poin2 : poin-poin
 polantas : polisi lalu lintas
 polda : kepolisian daerah
@@ -2998,7 +3003,6 @@ slmt : selamat
 slsai : selesai
 slt : sulit
 sm : sama
-sma : sama
 smg : semoga
 smkn : semakin
 smpt : sempat
@@ -3229,6 +3233,8 @@ wk : tertawa
 wkt : waktu
 wkwk : tertawa
 wkwkkw : tertawa
+wkwkw : tertawa
+wkwkwk : tertawa
 wtf : what the fuck
 wth : what the hell
 x : tidak
