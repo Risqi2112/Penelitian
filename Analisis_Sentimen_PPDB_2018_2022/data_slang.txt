@@ -610,6 +610,7 @@ ngucap:bicara
 ngundang:mengundang
 ngutip:mengutip
 ni:ini
+niali : nilai
 niker:tidur
 nite:selamat malam
 nntn:menonton
