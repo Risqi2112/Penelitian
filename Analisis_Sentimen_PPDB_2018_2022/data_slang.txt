@@ -613,6 +613,7 @@ ngutip:mengutip
 ni:ini
 niali : nilai
 niker:tidur
+nis:anies baswedan
 nite:selamat malam
 nntn:menonton
 nnton:menonton
