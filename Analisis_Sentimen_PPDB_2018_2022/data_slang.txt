@@ -33,6 +33,7 @@ anget:hangat
 anggep:anggap
 angus:hangus
 apdate:update
+apalg:apalagi
 app:aplikasi
 apusin:hapus
 aq:aku
