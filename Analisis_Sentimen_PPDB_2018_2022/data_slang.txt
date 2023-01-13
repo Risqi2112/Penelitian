@@ -339,6 +339,7 @@ gw:saya
 gweh:aku
 gws:cepat sembuh
 hapal:hafal
+hahay:tertawa
 hbd:selamat ulang tahun
 hbs:habis
 hny:hanya
