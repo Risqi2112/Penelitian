@@ -1958,7 +1958,6 @@ direhap : direhab
 disono : di sana
 diuber : dikejar
 dket : dekat
-dki : daerah khusus ibukota
 dkit : sedikit
 dkk : dan kawan kawan
 dkk : dan kawan-kawan
