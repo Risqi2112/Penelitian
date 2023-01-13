@@ -243,6 +243,7 @@ dmn:dimana
 dmna:dimana
 dn:dan
 dokat:uang
+dokem:sembunyi
 dolo:dahulu
 dongo:bodoh
 donk:dong
