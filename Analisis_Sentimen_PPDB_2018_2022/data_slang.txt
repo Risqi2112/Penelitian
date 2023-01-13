@@ -253,6 +253,7 @@ dpt:dapat
 dr:dari
 dri:dari
 drpd:dari pada
+dsah:udah
 dsr:dasar
 dst:dan seterusnya
 dtg:datang
