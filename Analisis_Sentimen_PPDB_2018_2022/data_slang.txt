@@ -520,6 +520,7 @@ met:selamat
 metong:mati
 miapah:demi apa
 mingkem:diam
+misuh:maki
 mjd:menjadi
 mkn:makan
 mksd:maksud
