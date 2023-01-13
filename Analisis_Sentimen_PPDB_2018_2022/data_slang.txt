@@ -1299,7 +1299,7 @@ berhub:berhubungan
 cukong:mafia
 london:inggris
 pilgub:pemilihan gubernur
-tai:feses
+tai:bodoh
 mnolak:menolak
 mlainkan:melainkan
 ngeles:berbohong
@@ -3055,9 +3055,9 @@ syp : siapa
 t4 : tempat
 tabanas : tabungan pembangunan nasional
 tahi : kotoran
-tai : kotoran
-taik : kotoran
-taik : tahi
+tai : bodoh
+taik : bodoh
+taik :  bodoh
 tajir : kaya
 tak : tidak
 tar : nanti
