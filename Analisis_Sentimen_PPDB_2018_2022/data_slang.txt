@@ -2270,7 +2270,6 @@ kbr : kabar
 kcian : kasihan
 kdng : kadang
 kdu : harus
-ke : kah
 kebranian : keberanian
 keburu : terlanjur
 kec : kecamatan
