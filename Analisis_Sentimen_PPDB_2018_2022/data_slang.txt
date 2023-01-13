@@ -767,7 +767,6 @@ sll:selalu
 sllu:selalu
 slsai:selesai
 sm:sama
-sma:sama
 smg:semoga
 smlm:semalam
 smpe:sampai
